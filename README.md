@@ -15,7 +15,7 @@ The report covers actual account PnL, cumulative and annualized returns, BTC and
 
 ## Charles Schwab
 
-Monitoring is currently paused. The report contains the existing anonymized risk results and their data status; account amounts, identifiers and holdings remain private.
+The report shows percentage changes on a user-defined adjusted account-value basis, including cumulative and annualized reference changes, annual and monthly changes, BTC and S&P 500 comparisons, Sharpe, volatility, drawdowns, VaR, Expected Shortfall, and historical / statistical stress scenarios. The reference start is January 2025; observed account history begins June 30, 2025. Missing early history is not fabricated. Account amounts, capital, exclusions, identifiers, holdings and transactions remain private; calculation assumptions and data timestamps are disclosed in the report.
 
 ## Updates and repository contents
 
