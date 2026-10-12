@@ -15,7 +15,7 @@ The report covers actual account PnL, cumulative and annualized returns, BTC and
 
 ## Charles Schwab
 
-The report shows percentage changes on a user-defined adjusted account-value basis, including cumulative and annualized reference changes, annual and monthly changes, BTC and S&P 500 comparisons, Sharpe, volatility, drawdowns, VaR, Expected Shortfall, and historical / statistical stress scenarios. The reference start is January 2025; observed account history begins June 30, 2025. Missing early history is not fabricated. Account amounts, capital, exclusions, identifiers, holdings and transactions remain private; calculation assumptions and data timestamps are disclosed in the report.
+The report monitors the three selected accounts using cash-flow-adjusted percentage returns, an S&P 500 comparison, Sharpe, volatility, drawdowns, VaR, Expected Shortfall, and historical / statistical stress scenarios. The funded fixed-income account and all other accounts are excluded. Common observed history starts July 2, 2025; earlier history is unavailable due to a change of broker. Daily Modified Dietz estimates use an explicit midpoint assumption when intraday contribution times are unavailable. This corrected method replaces the earlier fixed-exclusion account-value proxy. Account amounts, reference capital, contribution amounts, identifiers, holdings and transactions remain private; methods and the actual broker valuation date are disclosed in the report.
 
 ## Updates and repository contents
 
